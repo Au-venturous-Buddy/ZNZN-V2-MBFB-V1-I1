@@ -1,17 +1,17 @@
 ---
 language_code: "en"
 image_alt: [
-    "The Great Sci-Fair Title Cover",
-    "Zene, Zeanne, and their class having a group photo for their school's Science Fair",
-    "Zene, Zeanne, and their friends visiting the Move-a-Bot exhibit",
-    "Move-a-Bot demo",
-    "A Move-a-Bot challenge for you!",
-    "What's your answer to this Move-a-Bot challenge?",
-    "Petting Zoo at the Science Fair",
-    "Leo and his Karting team promoting the EcoKart",
-    "The Kindergarten class showing their Munggo Nursery",
-    "Drawing of Zene on Mars",
-    "Zene and Zeanne posing as Astronauts in the Space Exhibit",
-    "The correct answer to the Move-a-Bot challenge"
+    "Zene, Zeanne, and their family heading off to their family vacation in Zamboanga and Cagayan de Oro",
+    "In-flight entertainment!",
+    "Yummy Satti!",
+    "Zene, Zeanne, and their grandfather heading off for a motorcycle ride",
+    "Zene, Zeanne, and their family heading off to Cagayan de Oro",
+    "Zene and Zeanne enjoying white water river rafting in Cagayan de Oro",
+    "Zene and Zeanne enjoying ziplining at Dahilayan Adventure Park",
+    "Maria Cristina Falls",
+    "Zene and Zeanne getting wet at Tinago Falls",
+    "Zene and Zeanne's uncle going scuba diving",
+    "Zene and Zeanne enjoying the beach",
+    "Time to say goodbye to Zamboanga and Cagayan de Oro"
 ]
 ---

@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i2.v1.mbfb.v2.znzn',
-  appName: "The Great Sci-Fair",
+  appId: 'com.i1.v1.mbfb.v2.znzn',
+  appName: "Our Summer Vacation",
   webDir: 'public',
   bundledWebRuntime: false
 };

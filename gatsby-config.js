@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "The Great Sci-Fair",
+    title: "Our Summer Vacation",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V2-MBFB-V1-I2",
+  pathPrefix: "/ZNZN-V2-MBFB-V1-I1",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Great Sci-Fair`,
-        short_name: `ZNZN-V2-MBFB-V1-I2`,
+        name: `Our Summer Vacation`,
+        short_name: `ZNZN-V2-MBFB-V1-I1`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
